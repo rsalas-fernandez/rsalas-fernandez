@@ -1,6 +1,6 @@
 # Hola, soy Rafael Salas Fernández
 
-**Ingeniero Informático** enfocado en el desarrollo de software de alto impacto y la automatización de procesos. [cite_start]Me apasiona la intersección entre el desarrollo **Full Stack** y la **Inteligencia Artificial**[cite: 3, 31].
+**Ingeniero Informático** enfocado en el desarrollo de software de alto impacto y la automatización de procesos. [cite_start]Me apasiona la intersección entre el desarrollo **Full Stack** y la **Inteligencia Artificial**.
 
 ### 💻 Lo que hago:
 - **Desarrollo Full Stack:** Especialista en **React.js** para interfaces modernas y **Python/Django** para arquitecturas robustas.
@@ -9,7 +9,7 @@
 - **Cloud:** Despliegue y gestión de soluciones en **Google Cloud Platform (GCP)**.
 
 ### 🛠️ Tech Stack:
-- **Lenguajes:** Python (Avanzado), JavaScript, SQL.
+- **Lenguajes:** Python, JavaScript, SQL.
 - **Frontend:** React, Tailwind CSS, Bootstrap.
 - **Backend/IA:** Django, Node.js, Scikit-learn, OpenAI API.
 - **Herramientas:** Git, Docker, GCP, Firebase.
