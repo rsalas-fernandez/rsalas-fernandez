@@ -1,4 +1,4 @@
-# Hola, soy Rafael Salas Fernández 🇨L
+# Hola, soy Rafael Salas Fernández
 
 **Ingeniero Informático** enfocado en el desarrollo de software de alto impacto y la automatización de procesos. [cite_start]Me apasiona la intersección entre el desarrollo **Full Stack** y la **Inteligencia Artificial**[cite: 3, 31].
 
